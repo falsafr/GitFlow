@@ -19,4 +19,3 @@ This is the app that was used in reference of the live demo for GitFlow.
 1. Create a pull request `hub pull-request -b donmiller-ut:master -h donmiller-ut:my-awesome-feature`
 
 _Testing_
-
